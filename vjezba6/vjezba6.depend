@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713768154 source:c:\users\student\desktop\tint\vjezba6\vjezba6\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
